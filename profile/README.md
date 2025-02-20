@@ -1,6 +1,6 @@
 # 멋대 13기 한양대 에리카 - 프론트 엔드
 
-![Organization Logo]([로고_URL](https://blog.kakaocdn.net/dn/cQj4Me/btrM7nAUtzf/tVHA7ReCOCZm8PeJsRutm1/img.png))
+![Organization Logo](https://blog.kakaocdn.net/dn/cQj4Me/btrM7nAUtzf/tVHA7ReCOCZm8PeJsRutm1/img.png)
 
 ## 소개
 
