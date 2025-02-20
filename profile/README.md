@@ -1,9 +1,9 @@
 <img src="https://likelion.net/img/og_likelion.webp" alt="Organization Logo" width="100%">
 <div align="center">
 
-<a href="https://likelion-11th-skhu.github.io/">
+<a href="https://ericalion.vercel.app/">
 
-![home](https://img.shields.io/badge/Home-LikeLion11th-orange)
+![home](https://img.shields.io/badge/Home-LikeLion13th-orange)
 
 </a>
 
