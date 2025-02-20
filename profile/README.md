@@ -48,13 +48,13 @@
 - 기타 프론트 엔드 관련 기술
 
 #### Curriculum
-0주차: 웹 생태계(공통 세션)
-1주차: HTML+CSS
-2주차: Git, Github
-3주차: JavaScript 개요 및 기초
-4주차: JavaScript 심화 및 실습
-5주차: React 개요 및 세팅
-6주차: React 기초
-7주차: React 심화
-8주차: CSS 라이브러리 및 API 통신
+- 0주차: 웹 생태계(공통 세션)
+- 1주차: HTML+CSS
+- 2주차: Git, Github
+- 3주차: JavaScript 개요 및 기초
+- 4주차: JavaScript 심화 및 실습
+- 5주차: React 개요 및 세팅
+- 6주차: React 기초
+- 7주차: React 심화
+- 8주차: CSS 라이브러리 및 API 통신
 
