@@ -1,7 +1,7 @@
 
 
 ---
-## 👩🏻‍💻 13기 FE 운영진
+### 👩🏻‍💻 13기 FE 운영진
 | [김세현](https://github.com/sehyun0518) |[송가은](https://github.com/gn-ioeo) | [이가은](https://github.com/kkeunii) | 
 |:---:|:---:|:---:|
 | <img src="https://github.com/sehyun0518.png" width="150"> | <img src="https://github.com/gn-ioeo.png" width="150"> | <img src="https://github.com/kkeunii.png" width="150"> |
