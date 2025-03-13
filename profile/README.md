@@ -1,5 +1,5 @@
 
-
+# ERICA LIKELION-FE
 ---
 ### 👩🏻‍💻 13기 FE 운영진
 | [김세현](https://github.com/sehyun0518) |[송가은](https://github.com/gn-ioeo) | [이가은](https://github.com/kkeunii) | 
@@ -22,7 +22,6 @@
 | <img src="https://github.com/hayrin0603.png" width="150"> | <img src="https://github.com/wjdekdns1028.png" width="150"> |
 
 ---  !-->
-# ERICA LIKELION-FE
 
 환영합니다! 🚀  
 이곳은 **멋쟁이사자처럼 at 한양대학교 ERICA**의 공식 GitHub FE Organization입니다.  
