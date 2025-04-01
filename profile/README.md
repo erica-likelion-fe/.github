@@ -22,7 +22,8 @@
 
 | [이선우](https://github.com/tjsdn1204) | 
 |:---:|
-| <img src="https://github.com/tjsdn1204" width="150"> |
+| <img src="https://github.com/tjsdn1204.png" width="150"> |
+
 --- 
 
 환영합니다! 🚀  
