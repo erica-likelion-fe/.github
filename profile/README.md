@@ -8,20 +8,22 @@
 
 ---  
 ### 🦁 13기 아기사자
-<!--
-| [김가을](https://github.com/rlarkdmf1105) |[김시은](https://github.com/kimsieun99) | [김신희](https://github.com/shinheekim) | [김용욱](https://github.com/kimyongwook98) |
+| [김민서](https://github.com/DoggiKim) |[김서현](https://github.com/seo0917) | [김지수](https://github.com/kkimsxu) | [김태훈](https://github.com/mna11) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/rlarkdmf1105.png" width="150"> | <img src="https://github.com/kimsieun99.png" width="150"> | <img src="https://github.com/shinheekim.png" width="150"> | <img src="https://github.com/kimyongwook98.png" width="150"> |
+| <img src="https://github.com/DoggiKim.png" width="150"> | <img src="https://github.com/seo0917.png" width="150"> | <img src="https://github.com/kkimsxu.png" width="150"> | <img src="https://github.com/mna11.png" width="150"> |
 
-| [박지균](https://github.com/jivirus) | [백하윤](https://github.com/hayoon07) | [안준영](https://github.com/Junyeong-An) | [오동재](https://github.com/djdongjae) |
+| [김헌우](https://github.com/hunwoo701) | [박동준](https://github.com/pdjdev) | [박민지](https://github.com/minjimanji) | [박종인](https://github.com/pji0401) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/jivirus.png" width="150"> | <img src="https://github.com/hayoon07.png" width="150"> | <img src="https://github.com/Junyeong-An.png" width="150"> | <img src="https://github.com/djdongjae.png" width="150"> |
+| <img src="https://github.com/hunwoo701.png" width="150"> | <img src="https://github.com/pdjdev.png" width="150"> | <img src="https://github.com/minjimanji.png" width="150"> | <img src="https://github.com/pji0401.png" width="150"> |
 
-| [전혜린](https://github.com/hayrin0603) | [정다운](https://github.com/wjdekdns1028)  |
-|:---:|:---:|
-| <img src="https://github.com/hayrin0603.png" width="150"> | <img src="https://github.com/wjdekdns1028.png" width="150"> |
+| [설호](https://github.com/sho0814) | [윤용원](https://github.com/yongwon07) | [전세연](https://github.com/tpd403) | [최규호](https://github.com/gyuhochoime) |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/sho0814.png" width="150"> | <img src="https://github.com/yongwon07.png" width="150"> | <img src="https://github.com/tpd403.png" width="150"> | <img src="https://github.com/gyuhochoime.png" width="150"> |
 
----  !-->
+| [이선우](https://github.com/tjsdn1204) | 
+|:---:|
+| <img src="https://github.com/tjsdn1204" width="150"> |
+--- 
 
 환영합니다! 🚀  
 이곳은 **멋쟁이사자처럼 at 한양대학교 ERICA**의 공식 GitHub FE Organization입니다.  
